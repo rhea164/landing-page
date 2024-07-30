@@ -1,3 +1,15 @@
 .p5 {
     padding-bottom: 75px;
 }
+.footerImg{
+    max-width: 400px;
+    max-height: 600px;
+}
+
+#footer .inner{
+    justify-content: space-between;
+}
+
+.p3{
+    text-align:left;
+}
